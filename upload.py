@@ -7,8 +7,8 @@ def main():
    # and secret key.
    client = Minio(
        "minio:9000",
-       access_key="admin",
-       secret_key="adminpass",
+       access_key="u66x9tZKzLWXwd96YHbZ",
+       secret_key="2D6K04vua6D07w2y2ejPymwLy4CVrwow2mVtay9d",
        secure=False,
    )
 
